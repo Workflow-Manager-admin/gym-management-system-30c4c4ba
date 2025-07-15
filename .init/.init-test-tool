@@ -1,0 +1,4 @@
+{
+    "command": "pytest",
+    "working_directory": "/home/kavia/workspace/code-generation/gym-management-system-30c4c4ba/gym_backend"
+}
